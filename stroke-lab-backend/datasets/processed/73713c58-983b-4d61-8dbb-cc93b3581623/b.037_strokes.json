@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "label": "B",
+  "strokes": [],
+  "metrics": {
+    "processing_time_ms": 26.66,
+    "original_size": [
+      900,
+      1200
+    ],
+    "skeleton_points": 
